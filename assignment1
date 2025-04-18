@@ -2,21 +2,19 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
-Explain what software engineering is and discuss its importance in the technology industry.
-It is the process of designing, developing, and maintaining software.
+software engineering is the process of designing, developing, and maintaining software.
 
 Importance are:  it helps to optimize developer workflow while maintaining high quality standards.
                   it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.
                   it ensures that the system can handle an increased load without affecting performance
                   it implement protection practice like authentication, authorization and encryption to secure users information.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+key milestones in the evolution of software engineering:
 Mastering machine
 Mastering process
 Mastering complexity
 
-List and briefly explain the phases of the Software Development Life Cycle.
+phases of the Software Development Life Cycle.
 1) Planning - identify the software requirement or purpose and scope.
 2) Requirement analysis - identify the final user specification. 
 3) Design - building the framework. 
@@ -25,7 +23,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall is a linear and sequential approach to software development. It follows a rigid, step-by-step process where each phase must be completed before the next one begins. There is no overlap between phases, and it's difficult to go back to a previous stage once completed. It is appropriate in:Large projects with fixed requirements: Waterfall works best when the project scope, technology, and requirements are well-understood from the beginning.
                                                          Highly regulated industries: For example, government, healthcare, or aerospace, where documentation and clear phases are essential.
                                                          Maintenance projects: When working on software that doesn't require frequent updates or iterative changes, Waterfall can be efficient.
@@ -35,7 +33,7 @@ it is appropriate in: Dynamic, Evolving Projects: Projects where requirements ar
                       Quick Delivery: When you need to deliver working software in small iterations for continuous evaluation, such as in startups or MVP development.
                       Collaboration-driven Projects: Projects where communication and flexibility are crucial to success, such as in digital marketing or product design.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
 - collaborating with other team members to ensure best practice when developing software.
@@ -52,7 +50,7 @@ Project Manager - assembles and lead the software development team.
  - deliver the complete software to the client and regularly check its performance.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Importance of IDES :Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
                   An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax                     errors.
                   An IDE can make suggestions to complete a code statement when the developer begins typing.
@@ -62,7 +60,7 @@ Importance of VCS: Change Tracking: Records detailed history of changes, allowin
 
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+ common challenges faced by software engineers:
 Software Security - Programming secure software is a complex and challenging task. 
 Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
 
